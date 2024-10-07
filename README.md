@@ -47,4 +47,9 @@ This text summarization application with LLMs finds utility in diverse domains:
    pip install -r requirements.txt
    ```
 
+## Output
+![image](https://github.com/user-attachments/assets/90b370f5-d959-450f-b095-3876574dcc2b)
+
+
+
 Once these prerequisites are met, you can execute the application using Python and experience the power of text summarization using LLMs.
