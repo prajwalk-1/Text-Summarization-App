@@ -5,9 +5,7 @@ import tensorflow as tf
 # Load the pre-trained summarization model
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# Define the main function for the application
 def main():
-    # Set the title of the application
     st.title("Text Summarizer App")
 
     # Create a text area for the user to input the text to be summarized
